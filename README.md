@@ -1,5 +1,5 @@
 # Miranda-website
-# link : 
+# link : https://also-monic.github.io/Miranda-website/
 <br>
 <p align = "center">
 <img width="1440" alt="Screenshot 2023-07-08 at 10 42 40 PM" src="https://github.com/also-monic/Miranda-website/assets/138724632/4ce972d7-54b8-427c-9376-ded9b510fee5">
